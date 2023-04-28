@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: djangodeployment
-        image: amanimg/newdjango
+        image: amanmittal123/ingress 
         resources:
           limits:
             memory: "256Mi"
